@@ -61,7 +61,7 @@ A summary of the access policies in place can be found in the table below.
 | ---------- | :----------------: | :------------------: |
 | Jumpbox    | Yes                | 120.149.104.157      |
 | Webservers | No                 | 10.10.0.5            |
-| ELK        | Yes                | 12.120.104.157       |
+| ELK        | Yes                | 120.149.104.157      |
 
 
 
